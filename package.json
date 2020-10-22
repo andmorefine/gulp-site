@@ -1,0 +1,26 @@
+{
+  "name": "gulp-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andmorefine/gulp-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andmorefine/gulp-site/issues"
+  },
+  "homepage": "https://github.com/andmorefine/gulp-site#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/register": "^7.12.1",
+    "add": "^2.0.6",
+    "gulp": "^4.0.2",
+    "yarn": "^1.22.10"
+  }
+}
